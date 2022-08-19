@@ -1,0 +1,367 @@
+{
+  "title": "Certification Microsoft Dynamics 365",
+  "form": [
+    {
+      "question": "Which two components are included in Dynamics 365 Marketing? Each correct answer presents a complete solution. ",
+      "answers": [
+        "Customer Voice survey",
+        "Customer Service Hub",
+        "Enterprise Asset Management",
+        "Event management"
+      ],
+      "correct": [0, 3]
+    },
+    {
+      "question": "A company integrates LinkedIn Campaign Manager with Dynamics 365 Marketing. Which two actions can the company perform using out-of-the-box features? Each correct answer presents a complete solution. ",
+      "answers": [
+        "Generate leads from LinkedIn.",
+        "Create email templates for LinkedIn messages.",
+        "Schedule and publish social posts.",
+        "Create and publish events on LinkedIn."
+      ],
+      "correct": [0, 2]
+    },
+    {
+      "question": "A company organizes and runs conferences and other events. The company is considering using Dynamics 365 Marketing. The company wants to ensure that they can implement key marketing features without requiring any customizations. Which three capabilities does Dynamics 365 Marketing support using out-of-the-box functionality? Each correct answer presents part of the solution. ",
+      "answers": [
+        "Sponsors and sponsorships",
+        "Regulatory compliance",
+        "Advertisers and print media and campaigns",
+        "Session and speaker tracking",
+        "Registration and attendance"
+      ],
+      "correct": [0, 3, 4]
+    },
+    {
+      "question": "A potential customer delays their decision to commit to a big multi-year contract. You want to find other colleagues who have interacted with the potential customer to discuss strategies. Which app should you recommend? ",
+      "answers": [
+        "Customer Service Insights",
+        "Market Insights",
+        "Power Virtual Agents",
+        "Sales Insights"
+      ],
+      "correct": [3]
+    },
+    {
+      "question": "A company uses Dynamics 365 Sales. You need to create a forecast in Dynamics 365 Sales so that the sales director will be able to predict upcoming sales revenue. Which standard record type is used to create the forecast? ",
+      "answers": [
+        "Account",
+        "Lead",
+        "Quote",
+        "Opportunity"
+      ],
+      "correct": [3]
+    },
+    {
+      "question": "Your company uses Dynamics 365 Sales. You need to prepare and send a quote to a customer. What are two possible ways to achieve the goal? ",
+      "answers": [
+        "Close the quote",
+        "Generate a document by using a Microsoft Word template.",
+        "Export the quote as a PDF file.",
+        "Create an order"
+      ],
+      "correct": [1, 2]
+    },
+    {
+      "question": "A customer needs a cost-effective sales solution that can display current news about a lead or an account. You recommend Microsoft Relationship Sales. Which two products are included in Microsoft Relationship Sales? Each correct answer presents part of the solution. ",
+      "answers": [
+        "Dynamics 365 Customer Insights",
+        "Dynamics 365 Sales Enterprise",
+        "Dynamics 365 Sales Insights",
+        "LinkedIn Sales Navigator"
+      ],
+      "correct": [1, 3]
+    },
+    {
+      "question": "You are a sales representative for a company. Which Dynamics 365 Sales can you use to manage the sales pipeline? ",
+      "answers": [
+        "Turning leads into opportunities",
+        "Tracking the asset history of a customer",
+        "Resolving an open case of a customer",
+        "Tracking service level agreements"
+      ],
+      "correct": [0]
+    },
+    {
+      "question": "A company plans to implement Dynamics 365 Sales. Which two out-of-the-box features can you use to capture leads? Each correct answer presents a complete solution. ",
+      "answers": [
+        "emails",
+        "CSV files",
+        "Dynamics 365 Commerce",
+        "Dynamics 365 Customer Insights"
+      ],
+      "correct": [0, 1]
+    },
+    {
+      "question": "A company wants to be able to give quotes to customers from their parts list. You need to recommend a solution for the company. What should you recommend? ",
+      "answers": [
+        "Dynamics 356 Customer Insights",
+        "Dynamics 365 Sales",
+        "Dynamics 365 Marketing",
+        "Dynamics 365 Human Resources"
+      ],
+      "correct": [1]
+    },
+    {
+      "question": "You work as a technician and receive your work assignments by using cases in Dynamics 365 Sales. You need to review the timeline for a case that you are managing. Which type of activity appears in the case timeline? ",
+      "answers": [
+        "Project task",
+        "Task",
+        "Entitlement",
+        "Work order"
+      ],
+      "correct": [2]
+    },
+    {
+      "question": "A company uses Dynamics 365 Customer Service. The company plans to use support queues to organize and monitor the progress of cases. Customer support agents will select cases from queues in which they are members. Agents release case items if they are not able to continue working on a case. Which statement describes what happens when a case item is released from the queue? ",
+      "answers": [
+        "The case continues to remain in the agent's personal queue until someone else selects the item from",
+        "the queue.",
+        "The case is removed from all queues.",
+        "The case is removed from the agent's personal queue and returned to the original support queue."
+      ],
+      "correct": [2]
+    },
+    {
+      "question": "You attend a tradeshow. A fellow attendee suggests that you implement Dynamics 365 Connected Customer Service. What is a valid use case for Dynamics 365 Connected Customer Service? ",
+      "answers": [
+        "Analyze customer sentiment from multiple sources.",
+        "Respond to and resolve customer issues by using social media.",
+        "Use mixed reality applications to assist technicians performing work in the field.",
+        "Use IoT devices and AI to predict when a customer's equipment will need service."
+      ],
+      "correct": [3]
+    },
+    {
+      "question": "You manage a call center for a company that uses Dynamics 365 Customer Service. The call center's customer service manager wants to renew all expired entitlements to increase the duration of entitlements from six months to one year. You need to help the customer service manager make the changes. Which status indicates that an entitlement must be renewed? ",
+      "answers": [
+        "Draft",
+        "Waiting",
+        "Active",
+        "Canceled"
+      ],
+      "correct": [3]
+    },
+    {
+      "question": "A company plans to implement Dynamics 365 Customer Service. The company wants to use the system to determine when customers are having an issue and need help. You need to track customer issues until the issues are resolved. What should you create? ",
+      "answers": [
+        "opportunity",
+        "contact",
+        "case",
+        "quote"
+      ],
+      "correct": [2]
+    },
+    {
+      "question": "A company uses Dynamics 365 Customer Service. The customer service department for a retailer hires temporary employees to work during peak seasons. Temporary employees take much longer to resolve cases than seasoned employees. You need to recommend features that will help employees find information needed to resolve cases. Which two options should you recommend? Each correct answer presents a complete solution. ",
+      "answers": [
+        "Knowledge base with Relevance search",
+        "Parent and Child case settings",
+        "Case management with Related Similar cases",
+        "Routing rule sets"
+      ],
+      "correct": [0, 2]
+    },
+    {
+      "question": "A company uses Dynamics 365 Field Service. You create a work order from a case. A field service administrator schedules the work order. A technician arrives at the site of the work order and is ready to begin work on time. What is the status of the work order? ",
+      "answers": [
+        "Open – In progress",
+        "Open – Unscheduled",
+        "Traveling",
+        "Open – Scheduled"
+      ],
+      "correct": [0]
+    },
+    {
+      "question": "An air conditioning company uses Dynamics 365 Field Service. When a problem is detected with a customer's air conditioning system, a new case must be opened automatically. You need to recommend a solution for the company. What should you recommend? ",
+      "answers": [
+        "Field Service Mobile",
+        "Work orders",
+        "Connected Field Service",
+        "Universal Resource Scheduling",
+        "Case management"
+      ],
+      "correct": [2]
+    },
+    {
+      "question": "A company sells and services clothing washing machines and dryers. The company uses Dynamics 365 Field Service. You need to proactively monitor customer's equipment to identify problems and maintenance needs. Which two Connected Field Service options can you use? Each correct answer presents a complete solution. ",
+      "answers": [
+        "Dynamics 365 Remote Assist integration",
+        "Dynamics 365 mobile app",
+        "Azure IoT Central",
+        "Azure IoT Hub"
+      ],
+      "correct": [2, 3]
+    },
+    {
+      "question": "A company uses Dynamics 365 Field Service. The maintenance manager wants to be able to add a list of questions to work orders to ensure that field technicians follow the same steps when servicing customer equipment. You need to explain to the manager which features are available to meet the requirement. Which feature should you use? ",
+      "answers": [
+        "Connected Field Service",
+        "Inspections",
+        "Microsoft Customer Voice",
+        "Scheduling"
+      ],
+      "correct": [1]
+    },
+    {
+      "question": "You use Dynamics 365 Field Service. Each time a customer contacts a call center to request service, you plan to send a technician to the customer's location. You receive a service request and create a work order. You need to identify the next step in the process. What should you do next? ",
+      "answers": [
+        "Adjust inventory values.",
+        "Schedule and dispatch the work order.",
+        "Generate an invoice.",
+        "Review and close the work order."
+      ],
+      "correct": [1]
+    },
+    {
+      "question": "You work for a job placement agency that uses Dynamics 365 Project Operations. A client needs an expert plumber to handle an emergency situation at their office. You need to identify an expert plumber for the client. What are two possible ways to achieve this goal? Each correct answer presents a complete solution. ",
+      "answers": [
+        "Open the Resource Manager Dashboard and filter Role Utilization by the term expert plumber.",
+        "Open the client's project Gantt chart and filter by the term expert plumber.",
+        "Open the Resource Utilization board and filter by the term expert plumber.",
+        "Open the Schedule board and filter by the term expert plumber."
+      ],
+      "correct": [2, 3]
+    },
+    {
+      "question": "You are the resource manager for an electrical contractor that uses Dynamics 365 Project Operations. You need to track information about electricians' qualifications professional licenses, and certifications. Which attribute should you use? ",
+      "answers": [
+        "Skills",
+        "Roles",
+        "Rating values"
+      ],
+      "correct": [0]
+    },
+    {
+      "question": "A company plans to implement Dynamics 365 Project Operations. Which two billing methods does Dynamics 365 Project Operations support? Each correct answer presents a complete solution. ",
+      "answers": [
+        "Time and Material",
+        "Fixed Price",
+        "Expense",
+        "Not-to-exceed Limit"
+      ],
+      "correct": [0, 1]
+    },
+    {
+      "question": "A company sells and services commercial refrigeration equipment. The company is implementing Dynamics 365 Project Operations. You need to ensure that you can select a service technician for an assignment that has the required expertise to address the equipment issues reported by a customer. Which two features should you use? Each correct answer presents part of the solution. ",
+      "answers": [
+        "Resource skills",
+        "Resource roles",
+        "Proficiency models",
+        "Service-level agreements"
+      ],
+      "correct": [0, 2]
+    },
+    {
+      "question": "All employees at a company work eight hours each day Monday through Friday. A resource named Resource1 has 40 hours available for a specific week. You need to schedule Resource1 to work on a project during that week. The resource must work the hours detailed below: Which allocation method should you use? ",
+      "answers": [
+        "Remaining capacity",
+        "Percentage capacity",
+        "Full capacity",
+        "Front-load hours"
+      ],
+      "correct": [3]
+    },
+    {
+      "question": "You have a chart that displays a summary of accounts by industry. You need a chart that displays the same data grouped by city. You must be able to access the chart at a later date. What are two possible ways to achieve this goal? Each correct answer presents a complete solution. ",
+      "answers": [
+        "Expand the existing chart.",
+        "Edit the existing chart.",
+        "Select the city field in the drill-down menu.",
+        "Create a new chart."
+      ],
+      "correct": [1, 3]
+    },
+    {
+      "question": "A company is considering implementing products and the product catalog in Dynamics 365 Sales. Sales transactions can occur in multiple currencies. The company wants to manage exchange rates. You need to explain to the company how Dynamics 365 Sales handles currency. Which two statements describe how Dynamics 365 Sales handles currency? Each correct answer presents part of the solution. ",
+      "answers": [
+        "By default, all available currencies can be used.",
+        "By default, a base currency is available and other currencies can be added as needed.",
+        "Exchange rates are automatically updated.",
+        "Exchange rates need to be updated manually."
+      ],
+      "correct": [1, 3]
+    },
+    {
+      "question": "A company uses Dynamics 365 Sales. You need to analyze account data and create reports based on the analyses. Which solution should you use? ",
+      "answers": [
+        "Microsoft Forms Pro",
+        "Power BI",
+        "Power Automate",
+        "Management Reporter"
+      ],
+      "correct": [1]
+    },
+    {
+      "question": "You are a sales representative for a company that sells furniture. You collaborate with an engineering team and a design team to support customer proposals. The latest versions of all proposals must be available to both teams. Team members must be able to edit the proposals in real time. You need to attach a proposal to a customer record. Which mechanism should you use to attach the proposal? ",
+      "answers": [
+        "Timeline attachment",
+        "Word template",
+        "Documents tab"
+      ],
+      "correct": [2]
+    },
+    {
+      "question": "A company uses Dynamics 365 Sales. The company creates sales proposals as PDF documents. The company wants multiple users to access the latest version of a sales proposal in Dynamics 365 Sales. Users must be able to attach notes to the proposal. You need to recommend an app for the company. Which app should you recommend? ",
+      "answers": [
+        "Microsoft Excel",
+        "Microsoft Outlook",
+        "Dynamics 365 Sales Insights",
+        "Microsoft Teams"
+      ],
+      "correct": [3]
+    },
+    {
+      "question": "A company uses Dynamics 365 Marketing. The company uses a third-party app to send email surveys to prospects to better understand their business needs. There is currently no link to prospect records and users report that the survey management process is manual and is difficult to manage. You need to automate the survey process and streamline collection and analysis of responses. What are two possible ways to achieve this goal? Each correct answer presents a complete solution. ",
+      "answers": [
+        "Create a survey in Dynamics 365 Marketing and create a campaign to send it to out and collect data",
+        "Use Customer Voice to collect and analyze survey results",
+        "Use Power Automate to automatically send Customer Voice surveys",
+        "Create surveys in Dynamics 365 Marketing by using Questionnaire",
+        "Use Customer Voice to compile results from the existing third-party app"
+      ],
+      "correct": [0, 1]
+    },
+    {
+      "question": "A company implements Dynamics 365 Customer Service for their support desk. Agents resolve issues based on their own personal experiences or they must try to recreate the problem. This is causing customer satisfaction issues as resolution time is longer than expected and not consistent. You need to implement a solution to improve consistency of answers and ensure that agents can share their answers. What should you implement? ",
+      "answers": [
+        "Power Automate to transfer cases",
+        "Service level agreements",
+        "Knowledge base management",
+        "Customer Service Insights"
+      ],
+      "correct": [2]
+    },
+    {
+      "question": "A company has a large number of technicians that work in the field. You need to ensure that Dynamics 365 Field Service can automatically schedule work to minimize travel time for technicians. What should you implement? ",
+      "answers": [
+        "Resource scheduling optimization",
+        "Unified routing for table records",
+        "Schedule board",
+        "Universal Resource Scheduling"
+      ],
+      "correct": [3]
+    },
+    {
+      "question": "A company is implementing Dynamics 365 Project Operations to manage projects for customers. You are training project managers on how to enter statements of work into the new system. You need to ensure that the number of hours and the hourly rate for each item are entered. Where must the project managers enter the required information? ",
+      "answers": [
+        "Project contracts",
+        "Project stages",
+        "Project accounting",
+        "Resource management",
+        "Project tracking"
+      ],
+      "correct": [0]
+    },
+    {
+      "question": "You need to update inventory data for a company’s warehouse. Which two record types can you use to update the inventory? Each correct answer presents a complete solution. ",
+      "answers": [
+        "Agreement",
+        "Warehouse",
+        "Inventory adjustment",
+        "Return merchandise authorization (RMA)"
+      ],
+      "correct": [0, 1]
+    }
+  ]
+}
